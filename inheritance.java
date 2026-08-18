@@ -2,6 +2,7 @@ import java.util.Scanner;
 class person{
     String name;
     int age;
+
     
     void getpersondetails(){
         Scanner sc =new Scanner(System.in);
